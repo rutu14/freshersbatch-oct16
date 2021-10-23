@@ -1,3 +1,3 @@
 console.log("Hello world");
-var w= 4;
+var w = 9;
 console.log(w);
